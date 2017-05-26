@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tutorialmod",
+  "name": "A tutorial mod.",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ZBeyer"],
+  "credits": "The Forge and FML guys, for making and fml",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
